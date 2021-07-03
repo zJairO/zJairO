@@ -1,5 +1,8 @@
-![](https://zjairo.com/res/logo.png)
-
+![](https://zjairo.com/res/logo.png?style=centerme)
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 <!--
 **zJairO/zJairO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
