@@ -7,7 +7,7 @@ I program a lot in PHP and Python, but I also know how to handle other languages
 I am interested in everything related to IT and programming. 
 I am a responsible and commited person. In my free time I like to design, get involved in projects and program software.
 
-Software Engineer - Monterrey N.L. / Torreón Coah.
+Software Engineer - Monterrey Nuevo León MX. | Torreón Coahuila MX.
 - Full Stack Web Developer (PHP, MYSQL, CSS, JS) {2020 - Currently}
 - HelpDesk Remote Support {2019 - 2020}
 - Systems Department {2018 - 2019}
