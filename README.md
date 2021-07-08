@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="https://zjairo.com/res/logo.png"> 
+    <img src="https://zjairo.com/images/logo.png"> 
 </p>
 
 Hello, I am Full Stack Developer with over two years of experiencie in designing and developing web applications. 
