@@ -2,10 +2,7 @@
     <img src="https://zjairo.com/images/logo.png"> 
 </p>
 
-Hello, I am Full Stack Developer with over two years of experiencie in designing and developing web applications. 
-I program a lot in PHP and Python, but I also know how to handle other languages. 
-I am interested in everything related to IT and programming. 
-I am a responsible and commited person. In my free time I like to design, get involved in projects and program software.
+Hello, my name is Jairo, I am a Software Engineer, currently working as a full-time Full Stack Developer, I have more than two years of experience developing digital platforms and technological tools. I am interested in everything related to technology, in my free time I like to read about technology and create new tools. I have experience developing in Python, Php and other languages.
 
 Software Engineer:
 - Full Stack Web Developer (PHP, MYSQL, CSS, JS) 2020 - Currently
