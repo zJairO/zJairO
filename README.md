@@ -40,3 +40,4 @@ Proficient Certificates:
 - English C1 EF SET
 - International Mobility Scholarship Canada 2017 
 - CCNA R&S: Routing and Switching
+- CCNA R&S: Introduction to Networks
