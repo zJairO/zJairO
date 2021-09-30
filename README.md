@@ -5,7 +5,7 @@
 Hello, my name is Jairo, I am a Software Engineer, currently working as a full-time Full Stack Developer, I have more than two years of experience developing digital platforms and technological tools. I am interested in everything related to technology, in my free time I like to read about technology and create new tools. I have experience developing in Python, Php and other languages.
 
 Software Engineer:
-- Full Stack Web Developer (PHP, MYSQL, CSS, JS) 2020 - Currently
+- Full Stack Web Developer 2020 - Currently
 - HelpDesk Remote Support 2019 - 2020
 - Systems Department 2018 - 2019
 
