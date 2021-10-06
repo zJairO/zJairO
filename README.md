@@ -13,7 +13,6 @@ Proficient Lang's:
 - PHP
 - Python 
 - JavaScript 
-- Java 
 - C#
 
 Proficient Skills: 
@@ -37,7 +36,7 @@ Proficient Skills:
 - MySQL.
 
 Proficient Certificates: 
-- English C1 EF SET
-- International Mobility Scholarship Canada 2017 
+- Intermediate Python - Frontend Masters
+- Python Fundamentals - Frontend Masters
 - CCNA R&S: Routing and Switching
 - CCNA R&S: Introduction to Networks
