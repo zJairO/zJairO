@@ -15,8 +15,12 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=archlinux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
