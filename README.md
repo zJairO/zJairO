@@ -9,7 +9,7 @@ class SoftwareEngineer:
         self.language_spoken = ["en_US", "es_MX"]
 
     def say_hi(self):
-        print("Thanks for viewing my profile, I hope you like my work.")
+        print("Thank you for viewing my profile, I hope you like my work.")
 
 me = SoftwareEngineer()
 me.say_hi()
