@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>Backend developer</h4> <a href="https://support.apple.com/downloads"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.freebsd.org/"><img src="https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white" /></img></a>
+<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>Backend developer</h4> 
 </div>
 
 ---
@@ -17,3 +17,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# Operating systems
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white))
