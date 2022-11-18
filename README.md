@@ -1,19 +1,12 @@
-```python
-#!/usr/bin/python
+<div align="center">
+<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>Backend developer</h4> <a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a> <a href="https://support.apple.com/downloads"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+</div>
 
-class SoftwareEngineer:
+---
 
-    def __init__(self):
-        self.name = "Jairo"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US", "es_MX"]
+<p align="center"> Love to program anything, learn stuff every day and be part of open source community. </p>
 
-    def say_hi(self):
-        print("Thank you for viewing my profile, I hope you like my work.")
-
-me = SoftwareEngineer()
-me.say_hi()
-```
+[![Discord Presence](https://lanyard.cnrad.dev/api/342353586422022146)](https://discord.com/users/342353586422022146)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
