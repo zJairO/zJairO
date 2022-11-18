@@ -5,7 +5,7 @@
 ---
 
 <p align="center">Love to program anything, learn stuff every day and be part of open source community.<p>
-
+<br>
 <div align="center">
 <a href="https://discord.com/users/342353586422022146"><img src="https://lanyard.cnrad.dev/api/342353586422022146"></img></a>
 </div>
