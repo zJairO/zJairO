@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>Backend developer</h4> <a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://support.apple.com/downloads"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>Backend developer</h4> <a href="https://support.apple.com/downloads"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://www.linux.org/pages/download/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.freebsd.org/"><img src="https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white" /></img></a>
 </div>
 
 ---
@@ -13,3 +13,7 @@
 # Code
   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
