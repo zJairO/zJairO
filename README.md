@@ -4,14 +4,13 @@
 
 ---
 
-<p align="center">Love to program anything, learn stuff every day and be part of open source community.<p>
+<p align="center">Love to program anything, learn stuff every day and be part of open source community.<br>
 <a href="#"><img src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<p>
 <br>
 <div align="center">
 <a href="https://discord.com/users/342353586422022146"><img src="https://lanyard.cnrad.dev/api/342353586422022146"></img></a>
