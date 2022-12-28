@@ -78,3 +78,17 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+# Work setup
+
+## Desktop
+
+Apple Mac Mini M1 8GB RAM 256 SSD
+
+## Laptop
+
+Lenovo ThinkPad T470 Intel Core I5-7300U 16GB RAM 256 SSD
+
+## Monitor
+
+SAMSUNG UJ59 4K 32"
