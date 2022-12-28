@@ -80,11 +80,11 @@
 
 ## Desktop
 
-Apple Mac Mini M1 8GB RAM 256 SSD
+Apple Mac Mini M1 8GB RAM 256 SSD (Mac OS Monterey)
 
 ## Laptop
 
-Lenovo ThinkPad T470 Intel Core I5-7300U 16GB RAM 256 SSD
+Lenovo ThinkPad T470 Intel Core I5-7300U 16GB RAM 256 SSD (Arch Linux)
 
 ## Monitor
 
