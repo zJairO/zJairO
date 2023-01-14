@@ -86,4 +86,4 @@ Lenovo ThinkPad T440s i5-4300U 8 RAM 480 SSD (Arch Linux)
 
 ## Monitor
 
-SAMSUNG UJ59 4K 32"
+Samsung UJ59 4K 32"
