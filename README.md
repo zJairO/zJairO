@@ -79,7 +79,7 @@
 
 ## Desktop
 
-Gigabyte H610M H i5-12400 16 RAM 256 SSD (Arch Linux)
+Gigabyte H610M H i5-12400 16 RAM 480 SSD (Arch Linux)
 
 ## Laptop
 
