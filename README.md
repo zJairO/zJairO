@@ -79,7 +79,12 @@
 
 ## Desktop
 
-Gigabyte H610M H i5-12400 16 RAM 480 SSD (Arch Linux)
+Motherboard: Gigabyte H610M H 
+Processor: Intel Core i5-12400
+Gaphics card: MSI NVIDIA GeForce GTX 1650
+Ram:  2x Kingston FURY Beast Black DDR4 8GB
+Storage: SSD Kingston A400 480GB
+Power supply: Gigabyte P550B
 
 ## Laptop
 
