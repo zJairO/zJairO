@@ -1,14 +1,10 @@
 # Hello ✊
 
+[![](https://github-readme-stats.vercel.app/api?username=zjairo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About me
 
-![](https://zjairo.com/static/images/wizard.gif)
-
 Software dev who enjoys the focus and logic behind every line of code I write. Love to program anything, learn stuff every day and be part of open source community. 
-
-# Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=zjairo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Knowledge
   
