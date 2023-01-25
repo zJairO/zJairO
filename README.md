@@ -90,7 +90,7 @@
 ## Laptop
 
 - Lenovo ThinkPad T440s
-- Processor: i5-4300U
+- Processor: Intel Core i5-4300U
 - Ram: 2x DDR3 4GB
 - Storage: SSD Kingston A400 480GB
 - Main OS: Arch Linux (gnome)
