@@ -2,6 +2,8 @@
 
 ## About me
 
+![](https://zjairo.com/static/images/wizard.gif)
+
 Software dev who enjoys the focus and logic behind every line of code I write. Love to program anything, learn stuff every day and be part of open source community. 
 
 # Stats
