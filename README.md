@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>Backend developer</h4> 
+<a href="https://zjairo.com"><img src="https://i.imgur.com/VDuqJtz.png" alt="zJairO"></img></a><h4>simple dev</h4> 
 </div>
 
 ---
@@ -91,7 +91,7 @@
 
 - Lenovo ThinkPad T440s
 - Processor: i5-4300U
-- Ram: DDR3 8GB
+- Ram: 2x DDR3 4GB
 - Storage: SSD Kingston A400 480GB
 - Main OS: Arch Linux (gnome)
 
