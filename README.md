@@ -75,7 +75,7 @@ Software dev who enjoys the focus and logic behind every line of code I write. L
 - Ram:  2x Kingston FURY Beast Black DDR4 8GB
 - Storage: SSD Kingston A400 480GB
 - Power supply: Gigabyte P550B
-- Main OS: Arch Linux
+- Main OS: Windows 11
 
 ## Laptop
 
