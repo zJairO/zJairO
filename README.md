@@ -6,6 +6,8 @@
 
 Software dev who enjoys the focus and logic behind every line of code I write. Love to program anything, learn stuff every day and be part of open source community. 
 
+I code in C++, JavaScript, Php, Python and just about any language I find right for the project and exciting. At some point in the past, I was a happy systems engineer also accepting managerial roles, but things change as time goes on, just like our taste. Today I prefer to focus on my main fields of interest: Web Applications, Internet of Things and DevOps. 
+
 # Knowledge
   
 ## Code
