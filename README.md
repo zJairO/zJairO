@@ -45,6 +45,7 @@ Software dev who enjoys the focus and logic behind every line of code I write. L
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
 
@@ -75,7 +76,7 @@ Software dev who enjoys the focus and logic behind every line of code I write. L
 - Ram:  2x Kingston FURY Beast Black DDR4 8GB
 - Storage: SSD Kingston A400 480GB
 - Power supply: Gigabyte P550B
-- Main OS: Arch Linux (i3wm)
+- OS: Arch Linux (gnome)
 
 ## Laptop
 
@@ -83,7 +84,7 @@ Software dev who enjoys the focus and logic behind every line of code I write. L
 - Processor: Intel Core i5-4300U
 - Ram: 2x DDR3 4GB
 - Storage: SSD Kingston A400 480GB
-- Main OS: Arch Linux (i3wm)
+- OS: Arch Linux (gnome)
 
 
 ## Monitor
