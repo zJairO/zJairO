@@ -78,7 +78,6 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 - Ram:  2x Kingston FURY Beast Black DDR4 8GB
 - Storage: SSD Kingston A400 480GB
 - Power supply: Gigabyte P550B
-- OS: Windows 11
 
 ## Laptop
 
@@ -86,8 +85,6 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 - Processor: Intel Core i5-4300U
 - Ram: 2x DDR3 4GB
 - Storage: SSD Kingston A400 480GB
-- OS: Arch Linux
-
 
 ## Monitor
 
