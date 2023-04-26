@@ -1,12 +1,10 @@
 # Hello ✊
 
-[![](https://github-readme-stats.vercel.app/api?username=zjairo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## About me
 
-Software dev who enjoys the focus and logic behind every line of code I write. Love to program anything, learn stuff every day and be part of open source community. 
+I am a software engineer who enjoys the focus and logic behind every line of code I write.
 
-I code in C++, JavaScript, Php, Python and just about any language I find right for the project and exciting. At some point in the past, I was a happy systems engineer also accepting managerial roles, but things change as time goes on, just like our taste. Today I prefer to focus on my main fields of interest: Web Applications, Internet of Things and DevOps. 
+I code in C++, JavaScript, Php, Python and just about any language I find right for the project. At some point in the past, I was a happy systems engineer also accepting managerial roles, but things change as time goes on, just like our taste. Today I prefer to focus on my main fields of interest: Web Applications, Internet of Things and DevOps.
 
 # Knowledge
   
@@ -70,17 +68,8 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 
 # Work setup
 
-## Desktop
+## Main Laptop
 
-- Motherboard: Gigabyte H610M H 
-- Processor: Intel Core i5-12400
-- Gaphics card: MSI NVIDIA GeForce GTX 1650
-- Ram:  2x Kingston FURY Beast Black DDR4 8GB
-- Storage: SSD Kingston A400 480GB
-- Power supply: Gigabyte P550B
-- OS: Arch Linux
-
-## MacBook Air
 - MacBook Air
 - Processor: Apple Silicon M1
 - Ram: 8GB
@@ -94,6 +83,16 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 - Ram: 2x DDR3 8GB
 - Storage: SSD Kingston A400 480GB
 - OS: Arch Linux
+
+## Desktop
+
+- Motherboard: Gigabyte H610M H 
+- Processor: Intel Core i5-12400
+- Gaphics card: MSI NVIDIA GeForce GTX 1650
+- Ram:  2x Kingston FURY Beast Black DDR4 8GB
+- Storage: SSD Kingston A400 480GB
+- Power supply: Gigabyte P550B
+- OS: Windows 11
 
 ## Monitor
 
