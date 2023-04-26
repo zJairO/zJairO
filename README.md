@@ -68,7 +68,7 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 
 # Work setup
 
-## Main Laptop
+## Main Laptop (Where I do most of the job)
 
 - MacBook Air
 - Processor: Apple Silicon M1
@@ -76,7 +76,7 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 - Storage: 256 SSD
 - OS: MacOS Monterey
 
-## Emergency Laptop
+## Secondary Laptop
 
 - Lenovo ThinkPad T440s
 - Processor: Intel Core i5-4300U
