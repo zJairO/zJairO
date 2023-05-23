@@ -68,7 +68,7 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 
 # Work setup
 
-## Main Laptop
+## Laptop
 
 - MacBook Air
 - Processor: Apple Silicon M1
