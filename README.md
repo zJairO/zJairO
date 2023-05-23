@@ -68,21 +68,13 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 
 # Work setup
 
-## Main Laptop (Where I do most of the job)
+## Main Laptop
 
 - MacBook Air
 - Processor: Apple Silicon M1
 - Ram: 8GB
 - Storage: 256 SSD
 - OS: MacOS Monterey
-
-## Secondary Laptop
-
-- Lenovo ThinkPad T440s
-- Processor: Intel Core i5-4300U
-- Ram: 2x DDR3 8GB
-- Storage: SSD Kingston A400 480GB
-- OS: Arch Linux
 
 ## Monitor
 
