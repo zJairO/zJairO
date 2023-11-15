@@ -79,3 +79,13 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 ## Monitor
 
 - Samsung UJ59 4K 32"
+
+# Study Setup
+
+## PC
+
+- Processor: i5 12400F
+- Graphics: Radeon RX 7600
+- Ram: 32GB
+- Storage: 960 GB SSD
+- OS: Arch Linux
