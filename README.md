@@ -77,10 +77,6 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 - Storage: 256 SSD
 - OS: MacOS Monterey
 
-## Monitor
-
-- Samsung UJ59 4K 32"
-
 # Study setup
 
 ## PC
@@ -90,7 +86,3 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 - Ram: 32GB
 - Storage: 960 GB SSD
 - OS: Arch Linux
-
-## Monitor
-
-- Samsung UJ59 4K 32"
