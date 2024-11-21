@@ -67,22 +67,8 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# Work setup
+# Setup
 
-## Laptop
+## ThinkPad T480
 
-- MacBook Air
-- Processor: Apple Silicon M1
-- Ram: 8GB
-- Storage: 256 SSD
-- OS: MacOS Monterey
-
-# Study setup
-
-## PC
-
-- Processor: Intel i5 12400F
-- Graphics: AMD Radeon RX 7600
-- Ram: 32GB
-- Storage: 960 GB SSD
 - OS: Arch Linux
