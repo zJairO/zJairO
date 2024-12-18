@@ -66,9 +66,3 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-# Setup
-
-## ThinkPad T480
-
-- OS: Arch Linux
