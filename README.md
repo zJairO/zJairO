@@ -4,19 +4,21 @@
 
 I am a software engineer who enjoys the focus and logic behind every line of code I write.
 
-I code in C++, JavaScript, Php, Python and just about any language I find right for the project. At some point in the past, I was a happy systems engineer also accepting managerial roles, but things change as time goes on, just like our taste. Today I prefer to focus on my main fields of interest: Web Applications, Internet of Things and DevOps.
+I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about any language I find right for the project. At some point in the past, I was a happy systems engineer also accepting managerial roles, but things change as time goes on, just like our taste. Today I prefer to focus on my main fields of interest: Web Applications, Internet of Things, and DevOps.
 
 # Knowledge
   
 ## Code
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
-## Operating systems
+## Operating Systems
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
@@ -24,7 +26,7 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Database management
+## Database Management
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,7 +44,7 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Dev ops
+## DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -62,7 +64,18 @@ I code in C++, JavaScript, Php, Python and just about any language I find right 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## Utils
+## My Current Setup
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Workstation
+- **Processor**: 12th Gen Intel® Core™ i5-12400F × 12  
+- **RAM**: 32.0 GiB  
+- **GPU**: AMD Radeon™ RX 7600  
+- **OS**: Arch Linux, Linux 6.12.21-1-lts  
+- **DE**: GNOME 48  
+- **Storage**: 1TB  
+
+### Laptop
+- **Model**: MacBook Air M1  
+- **RAM**: 8GB  
+- **Storage**: 256GB SSD  
+- **OS**: macOS (latest version)  
