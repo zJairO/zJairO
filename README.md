@@ -67,11 +67,10 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 ## My Current Setup
 
 ### Workstation
-- **Processor**: 12th Gen Intel® Core™ i5-12400F × 12  
-- **RAM**: 32.0 GiB  
-- **GPU**: AMD Radeon™ RX 7600  
-- **OS**: Arch Linux, Linux 6.12.21-1-lts  
-- **DE**: GNOME 48  
+- **Processor**: AMD Ryzen 5 8600G
+- **RAM**: 64 GB  
+- **OS**: Arch Linux
+- **DE**: GNOME
 - **Storage**: 1TB  
 
 ### Laptop
