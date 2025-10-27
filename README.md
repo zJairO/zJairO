@@ -70,11 +70,11 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 - **Processor**: AMD Ryzen 5 8600G
 - **RAM**: 64 GB  
 - **OS**: Arch Linux
-- **DE**: GNOME
+- **DE**: GNOME (latest version)  
 - **Storage**: 1TB  
 
 ### Laptop
-- **Model**: MacBook Air M1  
-- **RAM**: 8GB  
+- **Model**: MacBook M4 Air 
+- **RAM**: 16GB  
 - **Storage**: 256GB SSD  
 - **OS**: macOS (latest version)  
