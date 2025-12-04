@@ -68,7 +68,8 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 
 ### Workstation
 - **Processor**: AMD Ryzen 5 8600G
-- **RAM**: 64 GB  
+- **Graphics Card**: AMD Radeon RX 7900 XT
+- **RAM**: 128 GB  
 - **OS**: Arch Linux
 - **DE**: GNOME (latest version)  
 - **Storage**: 1TB  
