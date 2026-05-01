@@ -70,13 +70,17 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 ### Workstation
 - **Processor**: AMD Ryzen 5 8600G
 - **Graphics Card**: AMD Radeon RX 7900 XT
-- **RAM**: 128 GB  
+- **RAM**: 128 GB
+- **Storage**: 1TB
 - **OS**: Debian 13
 - **DE**: GNOME
-- **Storage**: 1TB  
 
 ### Laptop
-- **Model**: MacBook M4 Air 
-- **RAM**: 16GB  
-- **Storage**: 256GB SSD  
-- **OS**: macOS (latest version)  
+
+- **Model**: Lenovo ThinkPad T14 Gen 5
+- **Processor**: AMD Ryzen 7 PRO 8840U
+- **Graphics Card**: Radeon 780M
+- **RAM**: 32 GB
+- **Storage**: 512 GB SSD
+- **OS**: Arch Linux
+- **DE**: GNOME
