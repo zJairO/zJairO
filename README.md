@@ -67,7 +67,7 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 
 ## My Current Setup
 
-### Workstation
+### PC
 - **Processor**: AMD Ryzen 5 8600G
 - **Graphics Card**: AMD Radeon RX 7900 XT
 - **RAM**: 128 GB
