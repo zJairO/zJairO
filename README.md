@@ -73,7 +73,6 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 - **RAM**: 128 GB
 - **Storage**: 1TB
 - **OS**: Debian 13
-- **WM**: i3
 
 ### Laptop
 
@@ -83,4 +82,3 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 - **RAM**: 32 GB
 - **Storage**: 512 GB SSD
 - **OS**: Debian 14
-- **WM**: i3
