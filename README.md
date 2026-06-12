@@ -81,4 +81,4 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 - **Graphics Card**: Radeon 780M
 - **RAM**: 32 GB
 - **Storage**: 512 GB SSD
-- **OS**: Debian 14
+- **OS**: Debian 13
