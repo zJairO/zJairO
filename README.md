@@ -65,14 +65,14 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## My Current Setup
+## Devices
 
 ### PC
 - **Processor**: AMD Ryzen 5 8600G
 - **Graphics Card**: AMD Radeon RX 7900 XT
 - **RAM**: 128 GB
 - **Storage**: 1TB
-- **OS**: Debian 13
+- **OS**: Gentoo
 - **WM**: DWM
 
 ### Laptop
@@ -82,5 +82,5 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 - **Graphics Card**: Radeon 780M
 - **RAM**: 32 GB
 - **Storage**: 512 GB SSD
-- **OS**: Debian 13
+- **OS**: Gentoo
 - **WM**: DWM
