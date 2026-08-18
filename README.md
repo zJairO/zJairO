@@ -71,7 +71,7 @@ I code in C, JavaScript, PHP, Python, Rust, Solidity, TypeScript, and just about
 
 ### PC
 - **Processor**: AMD Ryzen 5 8600G
-- **Graphics Card**: AMD Radeon RX 7900 XT
+- **Graphics Card**: AMD Radeon RX 7600
 - **RAM**: 128 GB
 - **Storage**: 1TB
 - **OS**: Gentoo
